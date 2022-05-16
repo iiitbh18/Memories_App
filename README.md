@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 <p>
-    <img src="./mongodb_.png" alt="Home Page" />
+    <img src="./mongodb2.png" alt="Home Page" />
 </p>
 ## After npm i do  npm start in both server and client terminal 
 

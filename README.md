@@ -21,6 +21,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     <img src="./mongodb2.png" alt="Home Page" />
 </p>
 
+# Team members
+1) Bhaskar Jha - B219018
+2) Harsh Kumar - B219027
+
 
 ## Available Scripts
 

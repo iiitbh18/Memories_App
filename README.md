@@ -58,7 +58,7 @@ In this project different languages and frameworks are used for designing the fr
 
 - **Mongo dB**
 
-[Back To The Top](#read-me-template)
+
 ## Available Scripts
 
 In the project directory, you can run:

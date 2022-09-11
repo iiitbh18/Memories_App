@@ -7,13 +7,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Screenshots
 <p>
-    <img src="./auth2.png" alt="Home Page" />
+    <img src="./signin_home.png" alt="Home Page" />
 </p>
 
 
 
 <p>
-    <img src="./auth.png" alt="Home Page" />
+    <img src="./signin.png" alt="Home Page" />
 </p>
 
 

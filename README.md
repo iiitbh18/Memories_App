@@ -36,6 +36,29 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2) Harsh Kumar - B219027
 
 
+
+## Project Details
+
+In this project different languages and frameworks are used for designing the frontend and building backend nicely. **React** is used in frontend to make website **UI** more beautiful. React makes it painless to create interactive UIs. Design simple views for each state in application, and React will efficiently update and render just the right components when data changes. Besides this in frontend **redux** is also included. **Redux** maintains the state of an entire application in a single immutable state tree (object), which can’t be changed directly. When something changes, a new object is created (using actions and reducers). In this project we will use **Nodejs** for back-end **API** services. **Express** is used as backend application. **Express** is a minimal and flexible Node.js web application framework that provides a robust set of features for website. For database management we will use mongo dB. **MongoDB** is a document-oriented database which stores data in JSON-like documents with dynamic schema. It means you can store your records without worrying about the data structure such as the number of fields or types of fields to store values.
+
+
+#### Libraries or frameworks
+
+- **Html & CSS**
+
+- **JavaScript**
+
+- **React**
+
+- **Redux**
+
+- **Nodejs**
+
+- **Express**
+
+- **Mongo dB**
+
+[Back To The Top](#read-me-template)
 ## Available Scripts
 
 In the project directory, you can run:
